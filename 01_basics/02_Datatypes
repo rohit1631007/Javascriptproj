@@ -1,0 +1,16 @@
+//"use strict"// Treat All code with newer Version of Javascript
+//alert("hello")this is node js and it is runs on browser
+//Console.log("3+3"); code readability should be high
+
+//Datatypes
+//Number 2power53 is valid 
+//bigint is used when the number is greater than 2power53.
+//null
+//undefined
+//boolean
+//string
+//symbol=unique
+
+//console.log(typeof null); Datatype of null is object
+console.log(typeof undefined);Datatype of undefined is undefined.
+
